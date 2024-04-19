@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "shinyMatrix"]
 	path = shinyMatrix
-	url = https://github.com/inwtlab/shiny-matrix
+	url = https://github.com/inwtlab/shinymatrix
